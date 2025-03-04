@@ -1,6 +1,6 @@
 """
 QUIZ
 
-Q: What happens last when function code is executed?
-A: The function is called?
+Q: Functions - What happens when the code is executed
+A: The function is called
 """
