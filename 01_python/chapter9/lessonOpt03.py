@@ -9,4 +9,4 @@ def check_ingredient_match(recipe, ingredients):
                 missing.append(i)             
             
         percentage = (match_counter / len(recipe)) * 100
-        return float(percentage), missing
+        return round(float(percentage), 2), missing
