@@ -7,3 +7,12 @@ The next 9 characters are broken up into 3 sets of rwx and represent the permiss
 <em>rw-: Read and write, but not execute</em>
 
 <em>r-x: Read and execute, but not write</em>
+
+<h4>QUIZ</h4>
+
+<p>
+  Q: Which permissions allow everyone to read?
+</p>
+<p>
+  A: -rwxr-xr--
+</p>
