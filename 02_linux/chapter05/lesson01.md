@@ -15,3 +15,14 @@ man ls
 
 # press 'N' to go back if you went too far
 ```
+
+<h5>
+  QUIZ
+</h5>
+
+<p>
+ Q: What does the -v flag do in the grep command 
+</p>
+<p>
+ A: It selects non-matching lines
+</p>
