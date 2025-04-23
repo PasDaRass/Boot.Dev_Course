@@ -14,7 +14,7 @@ You made a typo in the command and it's not doing what you want
   <li>
   There is a bug in the program causing it to hang
   </li>
-  <li>
-    In these cases, you can stop the program by pressing ctrl + c. This sends a "SIGINT" signal to the program, which tells it to stop.
-  </li>
+  
 </ul>
+<br />
+    In these cases, you can stop the program by pressing ctrl + c. This sends a "SIGINT" signal to the program, which tells it to stop.
