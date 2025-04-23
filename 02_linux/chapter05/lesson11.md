@@ -18,3 +18,4 @@ You made a typo in the command and it's not doing what you want
 </ul>
 <br />
     In these cases, you can stop the program by pressing ctrl + c. This sends a "SIGINT" signal to the program, which tells it to stop.
+    <p>You can also use ctrl + d. This is a <em>force exit</em> signal</p>
