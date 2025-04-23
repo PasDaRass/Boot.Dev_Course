@@ -1,3 +1,18 @@
+<p>
+  To restart the shell:
+</p>
+
+```
+exec $SHELL
+```
+<p>
+  To reinitialise the terminal session:
+</p>
+
+```
+reset
+```
+
 QUIZ
 
 <p>
