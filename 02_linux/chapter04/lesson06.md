@@ -4,6 +4,10 @@ To set a variable in your shell, use the export command:
 ```
 export NAME="Lane"
 ```
+To remove the variable from your environment, use the unset command:
+```
+unset NAME
+```
 You can then use the variable in your shell, just as before:
 ```
 echo $NAME
