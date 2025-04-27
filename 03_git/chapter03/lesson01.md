@@ -1,0 +1,29 @@
+Git commits contain data stored in hashes.
+While commit hashes are derived from their content changes, there's also some other stuff that affects the end hash. 
+For example:
+
+<ul>
+  <li>
+    
+The commit message
+  </li>
+  <li>
+The author's name and email
+    
+  </li>
+  <li>
+    
+The date and time
+  </li>
+  <li>
+Parent (previous) commit hashes
+    
+  </li>
+</ul>
+
+All this to say that hashes are (almost) always unique, and because they're generated automatically for you, 
+you don't need to worry too much about what goes into them right now.
+<br />
+<h4>SHA</h4>
+Git uses a cryptographic hash function called SHA-1 to generate commit hashes.
+We won't go into the details of how SHA-1 works in this course, but it's important to know because you might also hear commit hashes referred to as "SHAs".
