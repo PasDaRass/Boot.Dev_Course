@@ -1,6 +1,7 @@
 After staging a file, we can commit it.
 <br />
-A commit is a snapshot of the repository at a given point in time. It's a way to save the state of the repository, and it's how Git keeps track of changes to the project. A commit comes with a message that describes the changes made in the commit.
+A commit is a snapshot of the repository at a given point in time. It's a way to save the state of the repository, and it's how Git keeps track of changes to the project. <br />
+A commit comes with a message that describes the changes made in the commit.
 <br />
 Here's how to commit all of your staged files:
 ```
