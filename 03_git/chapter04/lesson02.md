@@ -1,0 +1,6 @@
+We've used --list to see all the configuration values, but the --get flag is useful for getting a single value.
+```
+git config --get <key>
+```
+Keys are in the format <section>.<keyname>.
+
