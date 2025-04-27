@@ -26,7 +26,8 @@ name / email: The key within the section. (preprended with dot notation for obje
 "ThePrimeagen": The value you want to set for the key.
   </li>
 </ul>
-Without the global flag, git config defaults to local <br />
+
+Without the global flag, `git config` defaults to local <br />
 Git has a command to view the contents of your config:
 
 ```
