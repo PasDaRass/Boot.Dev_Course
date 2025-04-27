@@ -2,5 +2,5 @@ We've used --list to see all the configuration values, but the --get flag is use
 ```
 git config --get <key>
 ```
-Keys are in the format <section>.<keyname>.
+Keys are in the format `<section>.<keyname>`
 
