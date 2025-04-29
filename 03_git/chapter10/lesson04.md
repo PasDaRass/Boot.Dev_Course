@@ -1,0 +1,4 @@
+```
+git pull [<remote>/<branch>]
+```
+The [...] syntax means that the bracketed remote and branch are optional. If you execute git pull without anything specified it will pull your current branch from the remote repo.
