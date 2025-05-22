@@ -1,7 +1,5 @@
 Now that we have pygame installed, let's write just a bit of boilerplate code so that we have a runnable program to build on.
 
-Assignment
-
 Create a new file called main.py.
 On the first line, import pygame:
 ```
